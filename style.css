@@ -9,6 +9,7 @@
     background-repeat: no-repeat;
     min-height: 100%;
     transition-duration: .25s;
+    background-color: #1e1e1e;
   }
 
   .page-container {
